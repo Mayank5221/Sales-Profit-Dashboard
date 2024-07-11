@@ -29,7 +29,7 @@ This Power BI dashboard provides a comprehensive analysis of sales and profit da
 4. **Explore the Dashboard:**
    - Use the interactive filters and visualizations to explore the sales and profit data.
 
-## Scre![Screenshot (179)](https://github.com/Mayank5221/Sales-Profit-Dashboard/assets/128227932/3f1728bd-c9c7-445f-93a4-3d95545499f7)
+[Screenshot (179)](https://github.com/Mayank5221/Sales-Profit-Dashboard/assets/128227932/3f1728bd-c9c7-445f-93a4-3d95545499f7)
 enshots![Screenshot (180)](https://github.com/Mayank5221/Sales-Profit-Dashboard/assets/128227932/01ce286f-dc69-4211-b9ea-d032911e1614)
 
 
